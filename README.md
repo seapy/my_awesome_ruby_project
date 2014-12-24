@@ -17,10 +17,10 @@ $ tree
 │   ├── my_awesome_ruby_project
 │   │   └── awesome_cat.rb
 │   └── my_awesome_ruby_project.rb
-└── spec
-    ├── my_awesome_ruby_project
-        │   └── awesome_cat_spec.rb
-            └── spec_helper.rb
+├── spec
+├── my_awesome_ruby_project
+│   └── awesome_cat_spec.rb
+└── spec_helper.rb
 
 4 directories, 8 files
 ```
