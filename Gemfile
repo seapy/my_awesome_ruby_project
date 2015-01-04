@@ -7,3 +7,4 @@ gem "guard-rspec"
 
 gem "rake"
 gem "minitest"
+gem "guard-minitest"
